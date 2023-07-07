@@ -7,3 +7,6 @@ Various LLM examples
   * Analyzes Titanic survival dataset, by chatting with data, creating visualizations using OpenAI and Langchain CSV agent.
   * Finally, tries to create a random forest model and predict the test set by chatting with CSV agent.
   * Used API&Libraries: openai langchain
+* Langchain_101:
+  * Contains simple yet powerful features of langchain with openai, also uses deeplake in some examples.
+  * Used API&Libraries: openai langchain deeplake 
