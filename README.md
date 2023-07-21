@@ -10,3 +10,6 @@ Various LLM examples
 * Llama2_7b_GPTQ:
   * Utilizes 4bit quantatized version of Llama2 7b Chat. "TheBloke/Llama-2-7b-Chat-GPTQ"
   * Used API&Libraries: transformers auto_gptq bitsandbytes
+* Distilbert_Masking:
+  * Utilizes DistilBertForMaskedLM from HF and finds masked word
+  * Used API&Libraries: transformers
