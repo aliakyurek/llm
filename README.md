@@ -14,5 +14,8 @@ Various LLM examples
   * Utilizes DistilBertForMaskedLM from HF and finds masked word
   * Used API&Libraries: transformers
 * PEFT_finetune_Bloom7B_sentiment:
-  * Finetunes "bigscience/bloom-7b1" for sentiment generatin
+  * Finetunes "bigscience/bloom-7b1" for sentiment generating
   * Used API&Libraries: bitsandbytes datasets accelerate loralib transformers peft
+* Llama2_7b_Original
+  * Uses original Llama2_7b model with quant
+  * Used API&Libraries: transformers accelerate einops langchain xformers bitsandbytes    
