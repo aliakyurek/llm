@@ -17,5 +17,5 @@ Various LLM examples
   * Finetunes "bigscience/bloom-7b1" for sentiment generating
   * Used API&Libraries: bitsandbytes datasets accelerate loralib transformers peft
 * Llama2_7b_Original
-  * Uses original Llama2_7b model with quant
+  * Uses original Llama2_7b model with quantization_config
   * Used API&Libraries: transformers accelerate einops langchain xformers bitsandbytes    
