@@ -25,3 +25,6 @@ Various LLM examples
 * Lightning's Lit-GPT
   * Utilizes Mistral model
   * Used API&Libraries: Uses own scripts
+* Mistral_ctransformers_llamacpp
+  * Utilizes quantatized version of Mistral-7B-v0.1. "TheBloke/Mistral-7B-v0.1-GGUF" using CTransformers and Llamacpp
+  * Used API&Libraries: llama-cpp-python ctransformers
