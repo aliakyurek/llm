@@ -22,3 +22,6 @@ Various LLM examples
 * CTransformers
   * Utilizes TheBloke GGML models with/out GPU using CTransformers library
   * Used API&Libraries: ctransformers transformers langchain
+* Lightning's Lit-GPT
+  * Utilizes Mistral model
+  * Used API&Libraries: Uses own scripts
