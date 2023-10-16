@@ -18,4 +18,7 @@ Various LLM examples
   * Used API&Libraries: bitsandbytes datasets accelerate loralib transformers peft
 * Llama2_7b_Original
   * Uses original Llama2_7b model with quantization_config
-  * Used API&Libraries: transformers accelerate einops langchain xformers bitsandbytes    
+  * Used API&Libraries: transformers accelerate einops langchain xformers bitsandbytes
+* CTransformers
+  * Utilizes TheBloke GGML models with/out GPU using CTransformers library
+  * Used API&Libraries: ctransformers transformers langchain
