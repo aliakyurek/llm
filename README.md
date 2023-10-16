@@ -28,3 +28,8 @@ Various LLM examples
 * Mistral_ctransformers_llamacpp
   * Utilizes quantatized version of Mistral-7B-v0.1. "TheBloke/Mistral-7B-v0.1-GGUF" using CTransformers and Llamacpp
   * Used API&Libraries: llama-cpp-python ctransformers
+* Mistral_instruct_ctransformers_llamacpp_GPU
+  * Utilizes quantatized version of Mistral-7B-instruct-v0.1. "TheBloke/Mistral-7B-instruct-v0.1-GGUF" using CTransformers and Llamacpp with GPU
+  * Also includes langchain examples using ctransformer
+  * Used API&Libraries: llama-cpp-python ctransformers langchain
+
